@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">3labasorokin</string>
+    <string name="TextView">Hello</string>
+    <string name="call_second_activity">Call second activity</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="go_to_first_activity">Go 1 activity</string>
+    <string name="go_to_third_activity">Go 3 activity</string>
+    <string name="editMessage">Edit Message</string>
+</resources>
